@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#f1bc98</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bgwhite">#ffffff</color>
+    <color name="bgtitle">#323c46</color>
+    <color name="bgborder">#dbdfe2</color>
+    <color name="placeholder">#4d606f</color>
+    <color name="orange">#eb937b</color>
+    <color name="keywords">#b0b9c2</color>
+    <color name="transparent">#00d40909</color>
+
+</resources>
